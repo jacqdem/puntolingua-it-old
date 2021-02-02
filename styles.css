@@ -1,0 +1,180 @@
+body {
+  background: rgb(249, 235, 173);
+  background: linear-gradient(61deg, rgba(249, 235, 173, 1) 59%, rgba(255, 255, 255, 1) 100%);
+  color: #666666;
+}
+
+h1 {
+font-family: Sacramento, serif;
+}
+
+h2 {
+  font-family: Quicksand, sans-serif;
+}
+
+h3 {
+    font-family: Quicksand, sans-serif;
+}
+
+h4 {
+    font-family: Quicksand, sans-serif;
+}
+
+h5 {
+  font-family: Quicksand, sans-serif;
+}
+
+h6 {
+  font-family: Quicksand, sans-serif;
+}
+
+p {
+    font-family: Quicksand, sans-serif;
+}
+
+a {
+  font-family: Quicksand, sans-serif;
+  color: #666666;
+}
+
+a:hover {
+  font-family: Quicksand, sans-serif;
+  color: #999999;
+  text-decoration: none;
+}
+
+header {
+  padding: 2rem 4rem;
+}
+
+.header-text {
+position: aboslute;
+bottom: 0;
+}
+
+
+.brand {
+  color: peru;
+  text-decoration: none;
+font-size: 200%;
+font-family: Sacramento, serif;
+
+}
+
+.brand:hover {
+  color: saddlebrown;
+  text-decoration: none;
+  font-family: Sacramento, serif;
+}
+
+
+.img-fluid {
+  border-radius: 50%;
+}
+
+.logo {
+  height: 15rem;
+}
+
+
+.contact {
+  padding: 2rem;
+}
+
+/* navigation */
+
+.menu {
+  padding: 3rem;
+}
+
+
+.btn-group-block {
+
+}
+
+.menu-col {
+  background: teal;
+}
+
+.btn {
+  border-style: solid;
+  border-width: medium;
+  border-color: white;
+  background-color: transparent;
+  padding: 1rem;
+}
+
+
+.btn.active {
+  border-style: solid;
+  border-width: medium;
+  border-color: white !important;
+  background-color: black !important;
+  padding: 1rem;
+}
+
+.nav-link {
+  color: white;
+  font-size: 1.5rem;
+}
+
+.btn:hover {
+  border-style: solid;
+  border-width: medium;
+  border-color: white;
+  background-color: lemonchiffon;
+  padding: 1rem;
+}
+
+.nav-link:hover {
+  color: white;
+  font-size: 1.5rem;
+}
+
+
+
+
+/* middle-container */
+.main-text {
+  background: ;
+  padding: 2rem;
+}
+
+.contact {
+  background: ;
+}
+
+.main-menu {
+  background: ;
+}
+
+/* footer */
+
+.footer {
+  margin-top: 2rem;
+  padding: 1.5rem 3rem;
+
+}
+
+.nav-link-footer {
+padding: 1rem;
+}
+
+.nav-link-footer:hover {
+padding: 1rem;
+}
+
+.footer-info {
+  font-size: .75rem;
+}
+
+.footer-links {
+  list-style: none;
+  text-decoration: none;
+  font-size: .75rem;
+}
+
+i {
+  padding: 2rem;
+  font-size: 2rem;
+}
